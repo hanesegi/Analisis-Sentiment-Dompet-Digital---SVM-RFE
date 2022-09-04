@@ -1,6 +1,6 @@
 # Analisis-Sentiment-Dompet-Digital---SVM-RFE
 
-<p align="justity">
+<p align="justify">
 ebagai alat transaksi yang dapat mempermudah masyarakat dalam
 pengelolaan uang tunai, dompet digital atau e-wallet merupakan salah satu hasil
 dari kemajuan teknologi dalam proses transaksi pembayaran yang ditawarkan
